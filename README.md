@@ -21,8 +21,8 @@
 [![Docker](https://img.shields.io/badge/-Docker-blue?logo=docker&logoColor=white)](https://www.docker.com/)
 [![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-lightgrey?logo=sqlalchemy&logoColor=white)](https://www.sqlalchemy.org/)
 [![Slack](https://img.shields.io/badge/-Slack-purple?logo=slack&logoColor=white)](https://slack.com/)
-[![Itch](https://img.shields.io/badge/-Itch-FA5C5C?logo=itch.io&logoColor=white)](https://itch.io/)
-[![Kaggle](https://img.shields.io/badge/-Kaggle-blue?logo=kaggle&logoColor=white)](https://www.kaggle.com/)
+[![Itch](https://img.shields.io/badge/-Itch-FA5C5C?logo=itch.io&logoColor=white)](https://adiy55.itch.io/bark-away)
+[![Kaggle](https://img.shields.io/badge/-Kaggle-blue?logo=kaggle&logoColor=white)](https://www.kaggle.com/adiy55)
 
 [![NumPy](https://img.shields.io/badge/-NumPy-blue?logo=numpy&logoColor=white)](https://numpy.org/)
 [![Pandas](https://img.shields.io/badge/-Pandas-blue?logo=pandas&logoColor=white)](https://pandas.pydata.org/)
