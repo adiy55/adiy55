@@ -15,7 +15,6 @@
 
 [![Jupyter Notebook](https://img.shields.io/badge/-Jupyter_Notebook-orange?logo=jupyter&logoColor=white)](https://jupyter.org/)
 [![Ubuntu](https://img.shields.io/badge/-Ubuntu-orange?logo=ubuntu&logoColor=white)](https://ubuntu.com/)
-[![REST API](https://img.shields.io/badge/-REST_API-lightgrey?logo=rest&logoColor=white)](https://en.wikipedia.org/wiki/Representational_state_transfer)
 [![Flask](https://img.shields.io/badge/-Flask-black?logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
 [![Expo](https://img.shields.io/badge/-Expo-blue?logo=expo&logoColor=white)](https://expo.io/)
 [![Postman](https://img.shields.io/badge/-Postman-orange?logo=postman&logoColor=white)](https://www.postman.com/)
